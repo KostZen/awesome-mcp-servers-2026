@@ -1,1 +1,19 @@
-# awesome-mcp-servers-2026
+# Awesome MCP Servers
+
+Лучшие MCP-серверы для Claude, Cursor и AI-агентов.
+
+## What is MCP?
+
+...
+
+## Featured Servers
+
+...
+
+## Categories
+
+...
+
+## Contributing
+
+...
