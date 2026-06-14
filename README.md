@@ -1,0 +1,1 @@
+# awesome-mcp-servers-2026
