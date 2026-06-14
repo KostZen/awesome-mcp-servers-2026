@@ -1,3 +1,19 @@
+<p align="center">
+  <img src="assets/banner.png" alt="Awesome MCP Servers 2026">
+</p>
+
+<h1 align="center">
+Awesome MCP Servers 2026
+</h1>
+
+<p align="center">
+The largest curated collection of MCP servers for Claude, Cursor and AI Agents.
+</p>
+
+<p align="center">
+⭐ Star this repository if it helps you.
+</p>
+
 # Awesome MCP Servers 2026
 
 A curated collection of the best MCP (Model Context Protocol) servers for Claude, Cursor, Windsurf, and AI agents.
